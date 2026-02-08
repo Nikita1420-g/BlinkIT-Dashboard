@@ -4,6 +4,8 @@ An interactive Excel dashboard analyzing sales performance, outlet metrics, and 
 
 ##  Dashboard Overview
 
+<img width="1710" height="896" alt="Screenshot 2026-02-08 " src="https://github.com/user-attachments/assets/c28c3b33-647b-4a27-a0ab-da589991d59f" />
+
 This dashboard provides comprehensive insights into:
 - **Total Sales**: $1.20M across all outlets
 - **Average Sales**: $141 per transaction
